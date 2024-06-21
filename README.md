@@ -15,11 +15,11 @@ This is an employee management system created for a medium sized company created
 10.again navigate to the frontend using terminal and enter the command npm i react-router-dom to install the react router<br>
 11.navigate to the backend folder and enter below commands to install the relevent pacekeges<br>
 <ul>
-    npm install express<br>
-    npm install cors<br>
-    npm install mysql<br>
-    npm install express-validator<br>
-    npm install nodemon<br>
+   <li> npm install express<br> </li>
+    <li> npm install cors<br></li>
+    <li> npm install mysql<br></li>
+    <li> npm install express-validator<br></li>
+   <li>  npm install nodemon<br></li>
 </ul>
 
 12.Again navigate inside to the backend folder (by using cd commands) and run the backend using  nodemon index.js - Now the backend will be run on port number 8088<br><br>
