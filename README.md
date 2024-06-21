@@ -1,8 +1,10 @@
 # Employee-Management
 This is an employee management system created for a medium sized company created using react,express with mysql
+<h2>Video Demonstration Video : </h2>
 
+<br>
+<br>
 <h1 style="color:red">#Setup Project</h1>
-
 1. Download the project zip.<br>
 2. Open your MAMP or XAMP and start the server(mysql).<br>
 3. Go to the PHPMyadmin and import the database file inside the project file(Emp_Management.sql).<br>
