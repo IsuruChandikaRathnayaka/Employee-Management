@@ -3,7 +3,7 @@ This is an employee management system created for a medium sized company created
 
 #Setup Process
 
-1.Download the project zip.
+1.Download the project zip.<br>
 2.Open your MAMP or XAMP and start the server(mysql)
 3.Go to the PHPMyadmin and import the database file inside the project file(Emp_Management.sql)
 4.After execution of the file open the project files using visuval studio code.
