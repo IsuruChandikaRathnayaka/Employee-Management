@@ -14,19 +14,9 @@ This is an employee management system created for a medium sized company created
 7. Go to the vs code again and open the terminal and navigate inside to the frontend folder(by entering cd frontend) <br>
 8. run npm install command to install the node modules.<br>
 9. again open another terminal and navigate to the backend folder and do the same thing as previouse (After navigating to backend folder and hit the npm i command)<br>
-10. again navigate to the frontend using terminal and enter the command npm i react-router-dom to install the react router<br>
-11. navigate to the backend folder and enter below commands to install the relevent pacekeges<br>
-<ul>
-   <li> npm install express<br> </li>
-    <li> npm install cors<br></li>
-    <li> npm install mysql<br></li>
-    <li> npm install express-validator<br></li>
-   <li>  npm install nodemon<br></li>
-</ul>
+10. Again navigate inside to the backend folder (by using cd commands) and run the backend using  nodemon index.js - Now the backend will be run on port number 8088<br><br>
+11. Again navigate inside to the frontend folder (by using cd commands) and run the frontend using  npm run dev - now the frontend will be run<br>
 
-12. Again navigate inside to the backend folder (by using cd commands) and run the backend using  nodemon index.js - Now the backend will be run on port number 8088<br><br>
-13. Again navigate inside to the frontend folder (by using cd commands) and run the frontend using  npm run dev - now the frontend will be run<br>
-
-14 Now you can test my project by doing operations.<br>
+12. Now you can test my project by doing operations.<br>
 
 
